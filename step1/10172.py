@@ -1,4 +1,4 @@
-gitprint("|\_/|")
+print("|\_/|")
 print("|q p|   /}")
 print('( 0 )"""\\')
 print('|"^"`    |')
